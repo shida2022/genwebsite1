@@ -1,0 +1,8 @@
+{
+  "ntru_project": {
+    "overview": {
+      "description": "Post-quantum cryptography system",
+      "nist_status": "Finalist in NIST PQC standardization effort"
+    }
+  }
+}
